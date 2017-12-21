@@ -28,7 +28,7 @@
 }
   </style>
 
-  <title>Best Indian Restaurants in London, Indian Restaurants in Camden Town, Takeaway NW1</title>
+  <title>Best Indian Restaurant in London, Indian Restaurants in Camden Town, Takeaway NW1</title>
 
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="robots" content="index, follow" />
