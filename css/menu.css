@@ -1,0 +1,192 @@
+#menu-page {
+	padding-top: 50px;
+}
+
+#menu-page section {
+	background: #1B1B1B;
+}
+
+
+.no-guter {
+	padding-right: 0;
+	padding-left: 0;
+}
+
+.mrgn20-btm {
+	margin-bottom: 20px;
+}
+
+.no-padding {
+	padding: 0;
+}
+
+.coppapsed {
+	text-decoration: none;
+}
+
+.text-muted {
+	border-bottom: 1px dashed #DAD1D1;
+	padding-bottom: 10px;
+	color: #fff;
+}
+
+.panel, .panel-heading, .panel-default {
+	border-radius: 0!important;
+	border: none;
+	
+}
+.panel-heading {
+	padding: 100px;
+	border-bottom: 1px solid transparent;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+}
+
+.panel-default {
+	overflow: hidden;
+}
+.paned-heading {
+	overflow: hidden;
+}
+.panel-default > .panel-heading {
+	background: url("../img/coffee.JPG");
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+	transition: all 0.5s ease-in;
+	-webkit-transition: all 0.5s ease-in;
+	overflow: hidden;
+
+}
+
+.panel-default > .panel-heading:hover {
+	-webkit-transform: scale(1.03);
+	transform: scale(1.03);
+	background-position: center;
+	overflow: hidden;
+}
+
+/* Panel Backgournd Pictures */
+
+.panel-default > .panel-heading.menu01 {
+	background: url("../img/starter.jpg");
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+}
+
+.panel-default > .panel-heading.menu02 {
+	background: url("../img/main-course.PNG");
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+}
+
+.panel-default > .panel-heading.menu03 {
+	background: url("../img/grill.jpg");
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+}
+
+.panel-default > .panel-heading.menu04 {
+	background: url("../img/veg.jpg");
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+}
+
+.panel-default > .panel-heading.menu06 {
+	background: url("../img/rice.jpg");
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+}
+
+.panel-default > .panel-heading.menu07{
+	background: url("../img/dessert.jpg");
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+}
+
+.panel-default > .panel-heading.menu08{
+	background: url("../img/bevarage.jpg");
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+}
+.panel-default > .panel-heading.menu09 {
+	background: url("../img/liquer.jpg");
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+}
+
+.panel-default > .panel-heading.menu-download {
+	background: url("../img/nam_logo.jpg");
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+}
+
+
+.panel-default > .panel-heading {
+	border-color: #ddd;
+	border-bottom: 1px solid transparent;
+}
+
+.panel-title {
+	margin-top: 0;
+	margin-bottom: 0;
+	font-size: 24px;
+	background: rgba(0,0,0,0.7);
+	padding: 15px;
+	font-weight: 500;
+}
+
+.panel-title:hover {
+	color: #F9BF3B ;
+}
+
+
+.panel-title a:hover {
+	text-decoration: none;
+	color: #F9BF3B;
+}
+
+
+
+.panel-body h3 {
+	color: #F9BF3B;
+	font-weight: normal;
+
+}
+.panel-body h3 span {
+	color: #000;
+}
+
+.panel-body p {
+	color: #000;
+}
+
+.section-heading {
+	font-family: "Open Sans", sans-serif;
+	color: #fff;
+	font-weight: normal;
+}
+
+.orange-accent {
+	color: #F9BF3B;
+}
+
+.section-subheading {
+	color: #fff;
+	margin-bottom: 50px;
+}
+
+@media screen and (max-width: 668px) {
+	.panel-title a {
+		font-size: 20px;
+	}
+}
