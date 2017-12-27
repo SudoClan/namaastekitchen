@@ -155,6 +155,17 @@ p {
   font-style: italic;
 }
 
+.header-promotion{
+  color: white;
+  font-family: nk-font;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 1.5em;
+  text-align: center;
+  margin-top: 5px;
+  margin-right: 10px;
+}
+
 .menu-title{
   font-family:nk-font;
   font-weight:bold;

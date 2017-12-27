@@ -11,7 +11,7 @@
   <style>
           @font-face {font-family: nk-font; src: url('nk-font.woff');}
 
-        #header-logos{position: relative; right: 492px; float: right; bottom: 70px; width: 80px; display: inline-flex; height: 49px;}
+        #header-logos{position: relative; right: 587px; float: right; bottom: 70px; width: 80px; display: inline-flex; height: 49px;}
 
 @media screen and (max-width:1023px) {
     #header-logos {
@@ -68,7 +68,7 @@
 	        <!-- Wrapper for slides -->
 	        <div class="carousel-inner" role="listbox">
             <div class="item active">
-              <img src="img/slideshow/christmas-slideshow.jpg">
+              <img src="img/slideshow/new-year-slideshow.jpg">
             </div>
 	            <div class="item">
 	              <img src="img/slideshow/1.jpg">
