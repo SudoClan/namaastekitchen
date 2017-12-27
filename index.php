@@ -23,7 +23,7 @@
 
 @media screen and (max-width:1023px) {
     .home-booknow{
-      position:relative; float: right; bottom: 52px; left: 127px; line-height: 1.2em; color: white; display: block; font-family:nk-font; font-size: 17px;
+      position:relative; float: right; bottom: 63px; left: 127px; line-height: 1.2em; color: white; display: block; font-family:nk-font; font-size: 17px;
     }
 }
   </style>
