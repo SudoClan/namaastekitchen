@@ -6,7 +6,6 @@
     <li><a href="index.php" style="font-family: nk-font;">Home</a></li>
     <li><a href="about.php" style="font-family: nk-font;">About</a></li>
     <li><a href="a-la-carte.php" style="font-family: nk-font;">Menus</a></li>
-    <li><a href="http://namaastekitchen.co.uk/pdf/Christmas-NK-SN-2017.pdf" style="font-family: nk-font;" target="_blank">Christmas</a></li>
     <li><a href="http://namaaste-kitchen-takeaway.co.uk/" target="_blank" style="font-family: nk-font;">Order Online</a></li>
     <li><a href="http://www.opentable.co.uk/namaaste-kitchen-restaurant-reservations-london?restref=72364" target="_blank" style="font-family: nk-font;">Reservation</a></li>
     <li><a href="gallery.php" style="font-family: nk-font;">Gallery</a></li>
