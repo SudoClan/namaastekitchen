@@ -9,9 +9,7 @@
             <a href="party-menu.php" class="menu-link-style">Set Menu</a>
             <a href="dessert.php" class="menu-link-style">Dessert</a>
             <a href="cocktails-drinks.php" class="menu-link-style">Cocktails & Drinks</a>
-
-            <a href="http://namaastekitchen.co.uk/pdf/Christmas-NK-SN-2017.pdf" class="menu-link-style" target="_blank">Christmas Menu</a>
-            <a href="http://namaastekitchen.co.uk/pdf/Diwali-Menu-2017.pdf" class="menu-link-style" target="_blank">Diwali Menu</a>
+            <a href="http://namaastekitchen.co.uk/pdf/new-years-menu-2017.pdf" class="menu-link-style" target="_blank">New Year Eve Menu</a>
         </li>
     </ul>
 </div>
