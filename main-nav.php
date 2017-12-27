@@ -16,5 +16,9 @@
   </ul> <!-- .cd-main-nav -->
 </nav> <!-- .cd-main-nav-wrapper -->
 
+
 <a href="#0" class="cd-nav-trigger" style="color:#232323;">Menu<span></span></a>
-<span id="header-logos"><img src="img/bbc-london.jpg">&nbsp;&nbsp;&nbsp;<img src="img/the-telegraph-header.jpg">&nbsp;&nbsp;&nbsp;<img src="img/evening-standard-header.jpg">&nbsp;&nbsp;&nbsp;<img src="img/time-out.jpg"></span>
+<!--<span class="header-promotion">4 Course Exquisite Set Meal</span>-->
+<span id="header-logos">
+<span class="header-promotion"><a href="http://namaastekitchen.co.uk/pdf/new-years-menu-2017.pdf" style="color:white;" target="_blank">4&nbsp;Course&nbsp;Exquisite&nbsp;Set&nbsp;Meal&nbsp;&nbsp;<br />Click&nbsp;Here&nbsp;for&nbsp;Menu</a></span>
+<img src="img/bbc-london.jpg">&nbsp;&nbsp;&nbsp;<img src="img/the-telegraph-header.jpg">&nbsp;&nbsp;&nbsp;<img src="img/evening-standard-header.jpg">&nbsp;&nbsp;&nbsp;<img src="img/time-out.jpg"></span>

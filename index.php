@@ -11,7 +11,7 @@
   <style>
           @font-face {font-family: nk-font; src: url('nk-font.woff');}
 
-        #header-logos{position: relative; right: 492px; float: right; bottom: 70px; width: 80px; display: inline-flex; height: 49px;}
+        #header-logos{position: relative; right: 587px; float: right; bottom: 70px; width: 80px; display: inline-flex; height: 49px;}
 
 @media screen and (max-width:1023px) {
     #header-logos {
