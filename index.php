@@ -10,22 +10,6 @@
   </script>
   <style>
           @font-face {font-family: nk-font; src: url('nk-font.woff');}
-
-        #header-logos{position: relative; right: 370px; float: right; bottom: 70px; width: 80px; display: inline-flex; height: 49px;}
-
-@media screen and (max-width:1023px) {
-    #header-logos {
-        display: none;
-    }
-}
-
-.home-booknow{position:relative; float: right; bottom: 40px; left: 36px; color: white; display:none;}
-
-@media screen and (max-width:1023px) {
-    .home-booknow{
-      position:relative; float: right; bottom: 63px; left: 127px; line-height: 1.2em; color: white; display: block; font-family:nk-font; font-size: 17px;
-    }
-}
   </style>
 
   <title>Best Indian Restaurants in London, Indian Restaurants in Camden Town, Takeaway NW1</title>
@@ -48,6 +32,7 @@
   <!--Bootstrap and Custom-->
   <link href="css/bootstrap.css" rel="stylesheet">
   <link href="css/style.css" rel="stylesheet">
+  <link href="css/custom.css" rel="stylesheet">
   <link href="css/lightbox.css" rel="stylesheet">
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
