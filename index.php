@@ -1,13 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js">
 <head>
-  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-  <script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-6898013208411826",
-    enable_page_level_ads: true
-  });
-  </script>
   <style>
           @font-face {font-family: nk-font; src: url('nk-font.woff');}
   </style>
