@@ -9,6 +9,7 @@
             <a href="party-menu.php" class="menu-link-style">Set Menu</a>
             <a href="dessert.php" class="menu-link-style">Dessert</a>
             <a href="cocktails-drinks.php" class="menu-link-style">Cocktails & Drinks</a>
+            <a href="http://namaastekitchen.co.uk/pdf/valentine-menu-2018.pdf" class="menu-link-style">Valentine Menu</a>
         </li>
     </ul>
 </div>
