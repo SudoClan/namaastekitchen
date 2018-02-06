@@ -11,7 +11,7 @@
   <style>
           @font-face {font-family: nk-font; src: url('nk-font.woff');}
 
-        #header-logos{position: relative; right: 492px; float: right; bottom: 70px; width: 80px; display: inline-flex; height: 49px;}
+        #header-logos{position: relative; right: 750px; float: right; bottom: 70px; width: 80px; display: inline-flex; height: 49px;}
 
 @media screen and (max-width:1023px) {
     #header-logos {
@@ -32,7 +32,7 @@
 
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="robots" content="index, follow" />
-  
+
   <meta name="description" content= "Namaaste Kitchen, one of UK’s best Indian restaurants in Camden. We provide Indian Takeaway &amp catering service in Camden Town, Camden Lock, Hampstead, St Johns Wood & London." />
 
   <meta name="keywords" content="Best indian restaurant in camden, indian restaurants in london, indian caterer NW1, indian catering services london, Restaurants in Camden Lock" />

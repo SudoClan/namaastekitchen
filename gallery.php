@@ -11,7 +11,7 @@
   <style>
           @font-face {font-family: nk-font; src: url('nk-font.woff');}
 
-        #header-logos{position: relative; right: 492px; float: right; bottom: 70px; width: 80px; display: inline-flex; height: 49px;}
+        #header-logos{position: relative; right: 750px; float: right; bottom: 70px; width: 80px; display: inline-flex; height: 49px;}
 
 @media screen and (max-width:1023px) {
     #header-logos {
@@ -33,7 +33,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
   <meta name="robots" content="index, follow" />
-  
+
   <meta name="description" content= "Looking for Indian restaurant in London, visit Namaaste Kitchen, the best indian restaurant in central london, primrose hill for variety delicious food." />
 
   <meta name="keywords" content="indian restaurant london, central london, indian restaurant in primrose hill, indian catering services london" />
