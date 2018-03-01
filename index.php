@@ -11,7 +11,7 @@
   <style>
           @font-face {font-family: nk-font; src: url('nk-font.woff');}
 
-        #header-logos{position: relative; right: 750px; float: right; bottom: 70px; width: 80px; display: inline-flex; height: 49px;}
+        #header-logos{position: relative; right: 450px; float: right; bottom: 70px; width: 80px; display: inline-flex; height: 49px;}
 
 @media screen and (max-width:1023px) {
     #header-logos {
@@ -23,7 +23,7 @@
 
 @media screen and (max-width:1023px) {
     .home-booknow{
-      position:relative; float: right; bottom: 94px; left: 127px; line-height: 1.2em; color: white; display: block; font-family:nk-font; font-size: 17px;
+      position:relative; float: right; bottom: 67px; left: 127px; line-height: 1.2em; color: white; display: block; font-family:nk-font; font-size: 17px;
     }
 }
   </style>
@@ -71,7 +71,7 @@
               <img src="img/slideshow/new-year-slideshow.jpg">
             </div>-->
             <div class="item active">
-              <img src="img/slideshow/valentine-slideshow.jpg">
+              <img src="img/slideshow/mothers-day.jpg">
             </div>
 	            <div class="item">
 	              <img src="img/slideshow/1.jpg">
