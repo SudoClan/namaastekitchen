@@ -1,5 +1,5 @@
 <div class="cd-logo"><a href="index.php"><img src="navigation/img/logo.png" alt="Logo" width="160px" class="logo-res"></a><span class="home-booknow"><br /><a href="https://m.opentable.co.uk/restaurants/namaaste-kitchen-london/72364?Rid=72364&PartySize=0&ConfirmationNumber=0&OfferConfirmNumber=0&RestRef=72364&Ref=0&CampaignId=0&RestID=72364&RestaurantReferralID=72364&PartnerReferralID=0" target="_blank" style="color:white;">Book Now</a><br />
-<span style="font-size: 15px; font-weight: bold;"><a href="http://namaastekitchen.co.uk/pdf/valentine-menu-2018.pdf" style="color:white;">Dine with us on Valentine's Day!<br />Four Course Set Meal<br />with Live Entertainment</span></a></span></div>
+<!--<span style="font-size: 15px; font-weight: bold;"><a href="http://namaastekitchen.co.uk/pdf/valentine-menu-2018.pdf" style="color:white;">Dine with us on Valentine's Day!<br />Four Course Set Meal<br />with Live Entertainment</span></a></span>--></div>
 
 <nav class="cd-main-nav-wrapper">
   <ul class="cd-main-nav">
@@ -18,5 +18,5 @@
 
 
 <a href="#0" class="cd-nav-trigger" style="color:#232323;">Menu<span></span></a>
-<span id="header-logos"><span class="header-promotion"><a href="http://namaastekitchen.co.uk/pdf/valentine-menu-2018.pdf" style="color:white;" target="_blank">Dine&nbsp;with&nbsp;us&nbsp;on&nbsp;Valentine's&nbsp;Day!<br />Four&nbsp;Course&nbsp;Set&nbsp;Meal&nbsp;with&nbsp;Live&nbsp;Entertainment</a></span>
+<span id="header-logos"><!--<span class="header-promotion"><a href="http://namaastekitchen.co.uk/pdf/valentine-menu-2018.pdf" style="color:white;" target="_blank">Dine&nbsp;with&nbsp;us&nbsp;on&nbsp;Valentine's&nbsp;Day!<br />Four&nbsp;Course&nbsp;Set&nbsp;Meal&nbsp;with&nbsp;Live&nbsp;Entertainment</a></span>-->
 <img src="img/bbc-london.jpg">&nbsp;&nbsp;&nbsp;<img src="img/the-telegraph-header.jpg">&nbsp;&nbsp;&nbsp;<img src="img/evening-standard-header.jpg">&nbsp;&nbsp;&nbsp;<img src="img/time-out.jpg"></span>
