@@ -70,10 +70,8 @@
             <!--<div class="item active">
               <img src="img/slideshow/new-year-slideshow.jpg">
             </div>-->
-            <div class="item active">
-              <img src="img/slideshow/mothers-day.jpg">
-            </div>
-	            <div class="item">
+
+	            <div class="item active">
 	              <img src="img/slideshow/1.jpg">
 	            </div>
 	            <div class="item">
